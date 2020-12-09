@@ -49,7 +49,7 @@ public class Foablak extends javax.swing.JFrame {
         String db_url = "jdbc:mysql://localhost:3306/loim";
 
         Connection conn;
-        setVisible(true);
+//        setVisible(true);
 
         try {
             conn = DriverManager.getConnection(db_url, userName, password);
