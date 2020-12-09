@@ -31,12 +31,12 @@ import model.Kerdes;
  */
 public class Foablak extends javax.swing.JFrame {
 
-    private IModel model;
-    private Vector<Kerdes> kerdesek;
-    private boolean init;
-    private Kerdes aktKerdes;
-    private int szamlalo = 15;
-    private int kerdesIndex = 0;
+//    private IModel model;
+//    private Vector<Kerdes> kerdesek;
+//    private boolean init;
+//    private Kerdes aktKerdes;
+//    private int szamlalo = 15;
+//    private int kerdesIndex = 0;
 
     public Foablak() {
         initComponents();
